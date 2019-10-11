@@ -1,0 +1,21 @@
+.branding img {
+    padding-right: 10px;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+#header {
+    background-color: #2c2172;
+    color: #fff;
+    height: 100px;
+}
+
+.module h2, .module caption, .inline-group h2  {
+    background: #2c2172;
+}
+
+div.breadcrumbs {
+    background: linear-gradient(to right, #3e3590 0%, #231a60 100%);
+}
